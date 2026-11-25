@@ -1,0 +1,4 @@
+request,company,category,created_on,order_ref,impact,state
+Q1,E1,finance,2025-07-01,O1,delivery-risk,open
+Q2,E1,technology,2025-07-03,O1,delivery-risk,open
+Q3,E2,site,2025-07-04,,capacity,open

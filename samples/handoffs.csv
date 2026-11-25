@@ -1,0 +1,4 @@
+handoff,request,from_unit,to_unit,action,created_on,response
+H1,Q1,center,D1,referral,2025-07-02,pending
+H2,Q2,center,D2,assessment,2025-07-04,received
+H3,Q1,D1,center,reply,2025-07-08,offer

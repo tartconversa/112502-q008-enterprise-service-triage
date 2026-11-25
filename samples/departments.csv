@@ -1,0 +1,4 @@
+department,category,service,period,capacity_hours
+D1,finance,bank-referral,2025Q3,48
+D2,technology,expert-visit,2025Q3,32
+D3,site,permit-review,2025Q3,24
